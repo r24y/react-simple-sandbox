@@ -1,0 +1,29 @@
+{
+  "name": "simple-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome": "latest",
+    "@fortawesome/fontawesome-free-regular": "5.0.8",
+    "@fortawesome/fontawesome-free-solid": "5.0.8",
+    "@fortawesome/react-fontawesome": "0.0.17",
+    "emotion": "9.0.2",
+    "prop-types": "latest",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-live": "1.10.1",
+    "react-router-dom": "4.2.2",
+    "react-scripts": "1.1.0",
+    "recompose": "0.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
